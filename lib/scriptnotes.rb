@@ -1,4 +1,7 @@
-#!/usr/bin/ruby
+#!/home/jayem163/.rbenv/shims/ruby
+require 'rubygems'
+require 'nokogiri'
+require_relative 'scriptnotes/parse_website.rb'
 
 def create_transcript_file(name="Scriptnotes_#{Time.now.to_i}.txt")
 
@@ -25,6 +28,6 @@ class Transcript
   end
 end
 
-create_transcript_file()
+  test_parse = ParseWebsite.new(263,true)
 
-print "scriptnotes has completed \n"
+puts "exited"
