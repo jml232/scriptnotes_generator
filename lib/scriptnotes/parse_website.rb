@@ -18,8 +18,11 @@ class ParseWebsite
     puts "at grab_html def, attempting to grab "
     doc = Nokogiri::HTML(open("http://johnaugust.com/2016/scriptnotes-ep-#{@episode}"))
     puts "got webpage"
-    article = doc.at_css("article")
+    article = doc.at_css("section")
+    # art2 = article.to_s.sub((/<article>.*here<\/a>\.<\/p>\W+/m),'')
+    article = article.to_s.gsub(/\&acirc\;\&\#128\;\&\#153\;/,"\'")
+    article = article.gsub(/\&acirc\;\&\#128\;\&\#15[6,7]\;/,"\"")
+    File.open("testout.txt","w") {|f| f.write(article.to_s)}
     puts "################\n\n\n\n"
-    puts article
   end  
 end
