@@ -7,4 +7,4 @@ require_relative 'scriptnotes/line.rb'
 require_relative 'scriptnotes/word_instance_map.rb'
 require_relative 'scriptnotes/word_map.rb'
 
-test_map = WordInstanceMap.new("John", [263])
+test_map = WordInstanceMap.new("John", [263,262])

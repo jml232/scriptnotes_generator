@@ -1,0 +1,436 @@
+John August: Hello and welcome. My name is John August.</p>
+
+Craig Mazin: My name is Craig Mazin.</p>
+
+John: This is Episode 262 of Scriptnotes, a podcast about screenwriting and things that are interesting to screenwriters. Today on the podcast, we will discuss the art of tidy screenwriting and that weird French copyright case involving Luc Beson. We will also be answering listener questions about what constitutes a draft and making characters gay.</p>
+
+Craig: Gay.</p>
+
+John: Gay. Craig, thank you so much for hosting last week. You and Mike Birbiglia did a fantastic job. I did not listen to the episode in advance of it being published. I listened to it like any other listener and I was delighted you did such a good job.</p>
+
+Craig: Well, first of all, I appreciate the faith. Because if I had to bet money I would have said, oh my god, John is certainly going to listen to it before he puts - because you know me, I'm crazy. But, I have to say, I was a little nervous, because I had to all of the grown up stuff that you do. But I cheated. You know, I went to the transcripts so I didn't miss anything at the end. And we had a great discussion. We had a great time. It was very easy. And Mike is obviously very good at talking. It's kind of his job.</p>
+
+John: It is his job.</p>
+
+Craig: It was a good discussion and made all the easier by the fact that his movie lends itself to our topic.</p>
+
+John: Absolutely. It is group of aspiring writer/performers - really performers more than writers - but trying to navigate the difficult industry that they are in. A lot of things that they are dealing with our listeners are probably dealing with as well.</p>
+
+Craig: No question.</p>
+
+John: And you hate it when your friends become successful.</p>
+
+Craig: [laughs] Of all my flaws, that's the one I don't have. I love it when my friends become - it just reflects well on me, I think.</p>
+
+John: Absolutely. You picked good friends.</p>
+
+Craig: Yeah. I picked good friends. Or, by being friends with me, something happened, and they became successful.</p>
+
+John: As a friend, you recommended that I go to an Escape Room for my birthday, which I did. I would like to thank you for the recommendation you made, which was called The Theater. It is one of the Escape Room LAs in Downtown Los Angeles. It was terrific. So we had a great time. We escaped with seconds to spare. And it was great. 
+So it was a bunch of people from the office, along with Mike and my daughter, and it was a great, fun time. So thank you for recommending that.</p>
+
+Craig: My pleasure. Actually, if it makes you feel better, my little group also escaped with seconds to spare. Which makes - we won't give any spoilers here - but the last thing you have to do is a bit silly and a bit fun, but you're also panicked that you're not going to be able to get it done in time. So, it was great. We loved it. And I'm glad that you had a good time.</p>
+
+John: Being completely new to the whole environment of escape rooms, this was apparently a larger escape room and we were only a group of seven, or 6.5, my daughter was with us. And it felt like the kind of room where more hands on deck could have been useful.</p>
+
+Craig: I generally tend toward the smaller group kind of vibe. We also did that one with six people and that one wasn't too bad. The problem with extra people is sometimes they just get in the way, or you give them tasks that they're bad at and it would have been better if you had done it on your own. 
+But I will say that if you do attempt The Alchemist, which is one of the rooms there, eight people would be super helpful for that one.</p>
+
+John: Sounds very good. I want to circle back to Mike Birbiglia for one second, because on Twitter this last week he brought up to the MPAA, 'Hey, isn't it really strange that my movie is Rated-R for one scene of drug us and Suicide Squad is Rated PG-13 for quote on the actual ad review there, &acirc;&#128;&#152;Sequences of violence and action throughout; disturbing behavior; suggestive content; and language.''</p>
+
+Craig: Well, let's put this in the bucket of a thousand other examples of the MPAA's Byzantine ratings process. And if Byzantine weren't bad enough, then there's just the question of the substance of their decisions. So, the way these things work is that there is somebody who works at every studio whose job is to interface with the MPAA. And then they engage in negotiations essentially. Well, if you take this out, maybe we'll give you the PG-13. And so on and so forth. 
+The existence of PG-13 is because Steven Spielberg got angry. There's nobody working for you when you make an independent film, a true independent film like Mike's, Don't Think Twice. So, you get what you get. And his point was, hey, so adults smoke pot in my movie, I get an R. Adults shoot and kill people in Suicide Squad and they get a PG-13. That doesn't sound right.</p>
+
+John: It does not sound right. And so an argument could be like, well, smoking pot is illegal, except that increasingly it is not illegal. And so I do wonder whether pot smoking as a thing will be less of a threshold for whether a movie gets its R-rating down the road. Because, you know, them having a drink would have not have pushed it into R. So, I'll be curious whether that changes over the next ten years as I think marijuana legalization becomes more and more common throughout the US.</p>
+
+Craig: Yeah. It's more of a question of social norms than legal status, because of course in all states murder is illegal.</p>
+
+John: That's a good point.</p>
+
+Craig: And people are constantly being killed in PG-13 films. But the way the ratings work is there's a group of people that watch the movie and those people are recruited essentially as representative parents. So, it comes down to what are these representative - allegedly representative parents - think they would be OK with their kids seeing without say them accompanying them by rule, which is the case for a Rated-R movie. And it seems like these people are OK with their kids seeing murders, they're just not OK with their kids seeing people getting high. 
+And it's confusing. It's also not necessarily consistent over time. For instance, the movie Poltergeist, which came out many, many years ago, has a scene where the parents are getting high. And that movie not only got a PG-13, it got a PG-13 even though it had people getting high and also horror themes and death. 
+So, over time they don't necessarily seem to comport, which I guess makes sense, because the parents change over time. But it's a reflection of just general social mores. I believe that regardless of legal status, that the restriction about things like smoking weed are going to probably get softened.</p>
+
+John: I think you're probably right. I guess my last question would be is the R rating hurting Mike's movie? Probably. The people that are going to go see that movie are probably grown-ups. But I would want to hope that like a 16-year-old kid who wanted to go see his movie could see his movie. And in some parts of the country, that kid can't because of this MPAA rating, which is frustrating.</p>
+
+Craig: I would guess if it has any effect at all, it's probably a beneficial effect. Because when adults go to a comedy, and the movie is a comedy among other things, they like the idea that it's going to be Rated-R. It's clearly a movie for grown-ups. I can't imagine there's a lot of teen appeal there. 
+But the bigger issue is just sort of a moral issue.</p>
+
+John: I agree with you. Last bit of follow up here, so after our season finale a few weeks ago we had a special Duly Noted episode, in which Aline Brosh McKenna, Rawson Thurber, and Matt Selman discussed what transpired. And they proposed this special Three Page Challenge which would be a John and Craig fan-fiction Three Page Challenge.</p>
+
+Craig: Oh boy.</p>
+
+John: And so a couple people have actually written in with those. And so I guess we're going to put them in a folder and eventually we might address those. I don't know if we would address them, if someone else would come back to address those. 
+But if you have one of those John and Craig fan-fiction Three Page Challenges, you can write into the normal email address, ask@johnaugust.com, and Godwin will dutifully take that and stick it in a folder. It may never be seen again, but if you wanted to write it, you wrote it. 
+But I would ask that if you're writing a normal Three Page Challenge, just go through the normal routes, so that's johnaugust.com/threepage, and there's a whole contact form for how you send in that stuff.</p>
+
+Craig: Is this going to be fan-fiction or slash fiction?</p>
+
+John: I think it's a little of both. And so I've only skimmed what's come through so far. There's a little of column A, a little of column B.</p>
+
+Craig: I just feel like I'm going to be the bottom. I just feel like it's inevitable.</p>
+
+John: Yeah.</p>
+
+Craig: It's clich&Atilde;&copy;. You know what, guys, if you're going to write John and Craig slash fiction, don't go the trite route of making me the bottom. But it's going to happen. [laughs] I'd write it that way, too.</p>
+
+John: One of my favorite episodes of South Park from the last year was Tweek and Craig are Gay, it's the one where they are portrayed by these Asian school girls as being gay. And they're in complete freak-out over it. And I could see us having a Tweek and Craig moment.</p>
+
+Craig: Did you know about that whole Yaoi sub culture thing?</p>
+
+John: I did know about that culture. I didn't know the name of it, but I knew it was a thing that happened. And just because, you know, I've watched enough TV shows that had sort of that - like Buffy the Vampire Slayer and some of the other shows had that kind of interest in them. And so I knew that there was like a slash thing. And I saw the visual equivalent of that slash fiction, which is Yaoi.</p>
+
+Craig: Yeah. I knew that there was - slash fiction goes all the way back to Star Trek, like the original Star Trek stuff. But I had no idea that there was this other thing going on where specifically this anime depiction of otherwise straight guys or theoretically straight guys in homosexual relationships. It's so specific. 
+I love things that are so incredibly specific you think like, okay, that probably interests one or two people. And then it turns out, no, it actually interests millions of people.</p>
+
+John: Absolutely.</p>
+
+Craig: Mind-blowing.</p>
+
+John: Well, it's the thing about percentages. Like a tiny percentage is actually a lot of people when you look at it worldwide. And so if it interests like one-tenth of one percent, that's a huge number.</p>
+
+Craig: It is. Absolutely true. And still just marvel at it. Because it's cute. That's the thing - anything in anime is adorable. Anything.</p>
+
+John: Anything. Everything. [Unintelligible] is adorable.</p>
+
+Craig: Adorable. So cute, with his little fish head. Little octopus mouth.</p>
+
+John: So, let's transition to our main topic today which also involves Asian subcultures. So, Marie Kondo wrote a book called The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing. And I read it this last week and I thought it was going to be my One Cool Thing, but as I thought about why I was going to mention it on the podcast I realized like, well, it's actually its whole own topic. So, I pushed this up to a centerpiece topic for today's conversation. 
+So, you probably know this book or know people talking people about this book or have been annoyed by this book. It's a small white book, written by this Japanese woman, who goes in and unclutters people's apartments and houses and gets them to throw away bags of garbage. And about two years I think it was sort of a bigger deal, and I had sort of skipped it the first time through. But I was over at Dana Fox's house and I saw it sitting on the table. 
+And so I flipped through it, prepared to be amused and annoyed by it. And I saw like, oh, you know what, actually it's sort of charming in its own weird way. She has this very strange voice. And like a lot of gurus, you can tell she's kind of crazy, but there's something just delightful in her crazy. 
+So, I started reading it basically thinking like, oh, is this an interesting character, and then I actually recognized that there were some useful things in there, not only for like getting crap out of your house, but also getting stuff out of your screenplays. And so I thought we'd make this a centerpiece for today's conversation.</p>
+
+Craig: What a great idea. I have the book and I have read it. And I haven't done any of the things, but I recognize that there is wisdom there. I also - you can smell the crazy coming off of it, no question. But, sometimes we need crazy people to light the way, even if they are on the extreme edge of things. 
+We could all probably use a nice decluttering.</p>
+
+John: I think so. Let me try to bullet point her three main ideas in the book, or at least the three main ideas I took from the book. The first is the exercise of going through all of your possessions and keeping only the ones that spark joy. Now, 'spark joy' is one of those phrases that sort of immediately raises my hackles, like, ugh, it's so charming and specific but marketing-ish. And just kind of meaningless. 
+But what she means by 'spark joy' is that it's the things that you actually want to have in your life. And that in holding them you feel like, oh yeah, this is a good thing. I'm happy I have this thing. And the things that don't spark joy like that, you're supposed to get rid of. And to summarize it, if you don't love it, don't keep it.</p>
+
+Craig: Well, it's not hard to draw a parallel from that to what we do. It's hard to experience that joyful feeling, that sense of true love for everything in a screenplay. That's too much to ask. Because a lot of things in screenplays aren't joyful as much as they are well-crafted or utilitarian. Or necessary.</p>
+
+John: So, I'll quickly summarize the rest of the book points, but let's dig in on each of these things for how they apply to screenwriting. The second big point I took from the book is when you're getting rid of something, you can thank it for its existence, which sounds very sort of weird and animistic, and she really kind of genuinely does believe that everything has a soul. At least, if you read the book that way, she thanks her purse for carrying her stuff over the course of the day.</p>
+
+Craig: Oh god. That's where I roll&ndash;</p>
+
+John: Yes, that can be kind of maddening. But I really liked this idea of thanking things for existing when you're getting rid of them. And so as we were sort of going through our own closet, like I could take this shirt that I kind of remember loving, but I never wore anymore, and I didn't really love now. And I could sort of say goodbye to it and not feel bad about it. And that's a thing often in writing I find is that it gets so hard for me to get rid of certain things because I just remember how hard it was to write them, or I remember so fondly what it was like to write that and it's hard to get rid of them. It's a useful way to get rid of things when you can say, 'I understand why you were put in this script at that moment. That time has passed. I say goodbye to you.'</p>
+
+Craig: Yeah. Dennis Palumbo talks specifically about this. He says sometimes the things we cling to the most we're clinging to because of what they meant to us when we wrote them. They signified a breakthrough or a new way of thinking about things, or they were really hard to get to.</p>
+
+John: Yes.</p>
+
+Craig: It's not relevant to anybody else at all.</p>
+
+John: Nope.</p>
+
+Craig: It's just relevant to you. And you have to recognize that sometimes its value is not the value that it would have for the story or the audience, and therefore you can cut it and not lose the value.</p>
+
+John: Completely. She would say that - she talks a lot about sort of when you get presents, and she says the value of a gift is the moment you receive it. It's that joy that happens the moment you receive it. That if it is not a thing that's useful in your life, you should get rid of it. And that's the same experience with writing. It's like there can be things that were so valuable at the time, that were so delightful when you found them, but it does not necessarily mean that they need to stay in your life forever.</p>
+
+Craig: How hard is it to be this lady's friend, though?</p>
+
+John: Oh, so tough.</p>
+
+Craig: You get her a gift, right, and then like three days later you show up and there's your gift in the dumpster. And you're like, oh, and she's like, 'No, no, no. The joy was in the moment I got it. But then like five minutes later I'm like this is a piece of crap. But you get it, right?' 
+'No, I don't get it!'</p>
+
+John: She throws it away in front of you. [laughs]</p>
+
+Craig: Right. Like I had my moment. It was great. And I'm done.</p>
+
+John: I like what she says about a sweater. And so I think about this in terms of a cardigan. You taught me that cardigans don't work for me. And I could completely envision that where like I've gotten something - I really want to be the kind of person who wears a cardigan, but I just cannot wear a cardigan. And so sometimes it's been that way with a script where it's like I really kind of want to be the person who writes this kind of script, but that's just not me. And that is a thing that that script taught you. It doesn't mean you have to keep working on that script.</p>
+
+Craig: So true. I bought a vest once. I really want to be a guy that wears a vest. I am not&ndash;</p>
+
+John: You're not a vest-wearer.</p>
+
+Craig: My torso is specifically designed to not be vested. So, I get that. And certainly it's the case with what we do as well. I mean, there are times when you really want to be, you know, I think comedy writers love to be fancy, and I think fancy writers love to try and be funny. That's the one that always blows my mind. When fancy writers want to be funny, and they're so not funny.</p>
+
+John: Yeah, that's the worst.</p>
+
+Craig: So not funny. The other thing is comedy writers approach fancy writing like, OK, I'm going to try to climb this mountain and be a big boy. And fancy writers approach comedy like, 'Oh, let me just turn my brain off and be silly for a while.' No! [laughs]</p>
+
+John: Doesn't work that way.</p>
+
+Craig: No sir. David Zucker calls that, 'Kids, don't try this at home.'</p>
+
+John: The last thing I took from her book was that things have a place. And if you have something that doesn't have a place in your house, it's just clutter. And so she takes it, of course, to a bizarre extreme, where when she comes home she takes everything out of her bag, she puts everything back in the place it belongs, and then puts her bag in its special little box, and then she can relax and sit down. That is crazy-making. 
+And yet there's a point of logic there that I think is so easy to miss is that anything that you invite into your story, into your world, if you don't have a place to put that thing, it's just going to sit out there and it's going to be pulling your attention at all times. And so often in writing, the things that aren't working in scripts are things that probably just haven't found their home. There's no place for them to land and so they're just grafted onto some other thing, and it's not a natural home for it.</p>
+
+Craig: Yeah, you know, it seems to me that in thinking about how we write our stories, placement is purpose, and purpose is placement. They are connected. People talk about structure, particularly the self-described gurus talk about structure as this thing that lays down first. You know, like a scaffolding, and then you sort of build something around it. And that's ridiculous. All things are interrelated. The structure is part of the things that are over the structure, and vice versa. And when you have something that you love, but it doesn't have a place, I guarantee you it also means it doesn't have a purpose. A true purpose in the story.</p>
+
+John: I would say that Marie Kondo would argue that these structuralists are basically the people who are trying to sell you closet organizers.</p>
+
+Craig: Right.</p>
+
+John: They're trying to make you put everything into a specific little drawer, a specific little slot, whether it wants to be in that place or does not want to be in that place. And that is my great frustration with both closet organizers and these people who sell you on structure books, because that's not the way people naturally live their lives, and it's not the ways stories naturally want to function.</p>
+
+Craig: Absolutely. And, in fact, to extend the analogy, what you end up with if you follow one of these books, if you're trying to Save the Cat or being a good Robert McKee disciple is you end up with one of these clich&Atilde;&copy; closets that have the little things with the stuff, and that stupid hanger for the ties that everybody has. And it's not you, right? It doesn't necessarily fit to you. 
+But even if it did fit to you, it's not unique at all. It's an imposition of some kind of economic model. But when we're talking about what gives us joy, and we're talking about creating the living space around us, and we're talking about the structure of our story, it's supposed to be unique. If it's not, who needs it?</p>
+
+John: Who needs it? So, let's dig in and talk about this specifically for writing. And so let's go back to our first point from the book which is keeping only the stuff that sparks joy, keeping only the stuff that you love. And so let's talk about how do you keep only the scenes, only the moments, only the characters that you love. Let's try to figure out some practical guidance for doing that. 
+I would start by saying look through everything, look through it sort of by category. So look through it by scenes and look through it by categories. Maybe look through it by locations. And ask yourself is this something I truly love, or is this just functional? Is this just getting the job done? Is it satisfying the moment that I can get to the things I actually love? 
+And challenge yourself to say like, wait, do I really want this here? Would I be happy with this scene representing my movie? If that is not the case where you would be delighted to have this scene in your movie, then that scene should not be in your movie. And you should probably stop and find a different way to get through that moment to do the function of that thing, but in a way that you actually love that scene.</p>
+
+Craig: This is something that I think separates professional writers from new writers. And it's not necessarily that professional writers have more talent, because there are people out there who are currently not professional but one day they will be and they will be spectacular. The greatest writer who ever lived has not yet been born, right? 
+So, the trick though that I think professionals learn over time is that there are moments where you need to do a job. Someone has to get somewhere. Someone has to learn information. Somebody has to see a thing. It's a piece of story requirement. And they know after all this time, and particularly after seeing what it's like when they don't do it right, they know that it is a requirement to go and look at those things and make them delightful in one way or another. 
+Delightful could mean also horrifying, but engaging. And interesting to the audience.</p>
+
+John: Absolutely. And so if you're going back through your script, or you're going through someone else's script, and you're asking the question why is that there, and the answer is, 'Well, because it's there, or because it's necessary, or it gets me to this other thing,' that's probably a red flag that there is something wrong. And not just with scenes with sequences, but also with characters. 
+Look at your character list and you need to go through and like do I love this character. Does this character make me excited when this character shows up? Do I understand it? Do I love him, or hate him, despise him? Does he bring special joy to this movie? And if the answer is no, then maybe you have the wrong character, or maybe you have too many characters. Maybe that character doesn't need to be in your movie whatsoever. And it may be worth stopping to think like what happens if that character leaves the movie completely. The things I have this character doing functionally, might they be better served by one of the other characters who would be left?</p>
+
+Craig: Yeah. It seems to me that if the challenge is to only keep the things you love, your choices as a screenwriter are get rid of it, or make it something you love. But what you can't do is keep it if it's just sort of meh. Nor, can you keep it if, I think if you love it but it's not doing anything, then the question is do you really love it.</p>
+
+John: Yeah. Now, practically speaking, if you're going from your first draft to your second draft and you're asking all these hard questions, one of the best ways to get to that second draft might be to say let's go through the first draft and really identify the things that I love. Copy and paste those things into a new document. Don't start rewriting your current document, because you'll just be sort of trying to clean up the stuff that isn't working. 
+Copy through the things that are actually fantastic. The things you love. The things you think best identify the movie you want to make. And you're going to end up with a shorter document that just has the stuff you love. And then go back through and figure out like what would I need to do so that these moments can tell the whole story. That I can build out from these moments to create the rest of this movie?</p>
+
+Craig: One thing you have to be cognizant of as you do that process is that there is a relationship that happens between what you're creating and what people are experiencing. If there's somebody, anyone, that you trust - or that you think could be helpful to you in their reaction, give them a look. Because you may find that actually something is fantastic that you didn't realize was fantastic. It's funny how that happens. 
+And, of course, similarly, you may find that something that you loved is sort of, meh, not really working that well for somebody else. So, before you begin your winnowing process, maybe put one pair of eyes on it, or one pair of ears.</p>
+
+John: I would agree. The other thing I would caution about, if you're going through this process, it can be so tempting to focus so tightly on these moments that you love that you forget like, oh, I am making a whole movie. And so the things you love shouldn't just be the bright pinpoints of light, but also the connections between those bright pinpoints of light. And how you're moving from this place to this place, and what's actually happening in those bigger moments. 
+There was a criticism about two weeks ago, I guess we weren't on the air for it, but Nerd Writer did a very good sort of breakdown of Batman v. Superman. And one of this primary criticisms of it, and I thought it was a good observation, was that the Zack Snyder movie, it had all these moments but had very few scenes. And in some ways I thought it was the Marie Kondo thing taken too far in the sense of like it was just these bright things that he loved, but there was no sort of scene or framework for these moments to have happened. So, you went through the whole movie feeling like it was kind of just on fast-forward. And like you were watching a trailer for a movie that didn't quite exist. 
+So, you have to mindful that in writing you're not just creating those bright flashes of intense things that you love, but also whole moments in which these bright flashes can happen.</p>
+
+Craig: There is value and love for silences in music. And there's some wonderful pauses that are my favorite things in songs. Love them. And they are essential. They aren't flashy, but they need to be there to make the flashy flashy. And it is absolutely true that there is - and I don't - I tend to not blame the filmmakers. I may be a little chauvinistic about this, but knowing what I do about the process of getting these movies made, there is an endless pressure, an external pressure - take that for what you will - to continue to reduce the sauce because, oh, if you boil more water out the flavor is more intense. Correct, until it is just gross, and it's too much. And you've lost any sense of balance. 
+And I think that's happening more and more in big movies because there's this feeling that if you are not constantly dropping jaws, then people aren't going to enjoy it. 
+I remember our friend Malcom Spellman, he loved Transformers. He really liked it. But he said, 'You know, if that movie had been better, it could have made so much more money.' And there's room. You can see, there's a lot of room for that movie to just be way better than it is. And they went for all of the fun, you know, and then they missed a lot of the things - the quiet things - that would make it better.</p>
+
+John: So, there's a director who I've worked with who I do love as a person, but our relationship has always been sort of like we're baking a cake together. And I would say, OK, so here's the recipe, so we need some flour, we need to sugar this, and he kept trying to throw in more sugar. And I'd say, no, no, no, it's all going to fall apart. It's a cake. It's not like hard candy. We need the flour. He's like, 'Yeah, but the flour is not interesting.' No, we need the flour. 
+And at any moment that I would turn away, he would just dump more sugar in. And that can be the frustration. They keep trying to add more and not actually recognize the fundamental structural integrity of the thing you're trying to make. You sort of forget what it is you set out to do because you keep intensifying the things that you think you love about it.</p>
+
+Craig: One of my least favorite notes, curiously, is the following positive note: 'We love what you did with blah, blah, blah. Let's do more of it.' No. No. You love Sriracha on that, don't you? Well, let's dump a bottle on. No! 
+No, you love it in part because it's properly balanced and we kind of have a working philosophy of how this - it's not random.</p>
+
+John: You love it because there's a contrast to what was there before. Exactly. If it was that way through the whole movie, it wouldn't feel different.</p>
+
+Craig: It's weird how that makes me angrier than, 'We don't like this thing.' And I'm like, ah, you should like it. But, OK, you don't like it, fine. But, 'We love it. Do it again.' Noooo! Ugh. It makes me crazy.</p>
+
+John: Yeah. So next bit of advice from Marie Kondo is about cutting things, or she would say like how do you get rid of things, but in our line of work it's just cutting stuff out, and getting rid of scenes, getting rid of characters, getting rid of things. 
+And I'm often sort of reluctant to do it because of really that philosophy of loss aversion. It's like it's so much more painful to get rid of something than the thought of like gaining something back. It's also a sunk-cost fallacy. I spent so much time getting that thing to work as well as it's working. For me to cut it now feels like a failure. It makes me feel that I've wasted my time. That I did not do my job well. That I don't even know what I'm doing. 
+I'm sure we've all felt this.</p>
+
+Craig: Yeah. Well, if you want to be a screenwriter, you better make your piece with wasted time now, because as I've said before, not really sure how many drafts it's going to take you to get to the final one, but a lot. And all of those drafts, with the exception of the last one, can be viewed through the lens of, well, I wasted my time. 
+Obviously you didn't. You're not perfect. Your process is imperfect and highly inefficient. Inefficiency goes hand in hand with any kind of creativity as far as I'm concerned. If there were some clean efficient path to creative success, people wouldn't be required. We would have software. You know, I had that discussion with Mike last week and he I know firsthand went through countless drafts to get to where he ended up. Countless. 
+And I don't think he ever stopped and said, 'Oh, I'm wasting my time.' You have to understand that the winnowing away of things you don't want to do is in and of itself productive.</p>
+
+John: Yep. And it's not just sometimes I'm cutting a scene, I'm cutting a sequence, I'm restructuring things. Sometimes I am walking away from a project. And that is one of those things which was so hard early in my career, because I think like, well, but I just made a movie on paper, and I want this movie to happen. So, I would keep calling these development executives saying like, 'Well what's happening on this movie that we worked on that you said you loved and it's not there anymore?' 
+And at a certain point I crossed over to recognizing, well, I get that phone call about like, 'Oh, they don't like the draft, and so I don't think it's moving forward, or we're going to sort of think about it.' And then I felt kind of a relief. I started to recognize that like, oh, by this project not taking up my time, I'm now free to do other things. It felt like, oh, I'm allowed to sort of move away from it and not let it occupy so much brain space. 
+It's tough when it's your own project, when you actually own it, and you could keep pushing it forward. Those are the harder things to walk away from. When it's sort of taken away from you in a certain way it's liberating because that space has just suddenly cleared for you.</p>
+
+Craig: This is a very dangerous thing for new writers, obviously. This is one that they all struggle with and I sympathize. Because you're going to come up with the standard rap on aspiring writers is that they start 20 projects and finish none. Very common. And obviously not possible to continue that way and expect to be a successful writer. So, naturally I think for people like that they may feel the need to force themselves through to the end for fear that they are falling down that hole. 
+And they might be. And maybe when you're first starting out you should just whip yourself until it's done, just to say, OK, I did it. And I'm not the guy that just starts and stops. But, certainly we will all at some point come face to face with the end of life for something, whether it's because it's taken away from us, or because there's just a general loss of interest. And, frankly, that's the most common outcome.</p>
+
+John: Yeah. So I'm not the animist that Marie Kondo is about sort of like thanking all of my stuff, but there are a couple scripts that are dead now that I kind of consciously do thank for existing, because they were really helpful lessons along the way. So I don't look at them as failures, but basically like it was really important that I wrote that script because it taught me X, Y, or Z. 
+And so my first script, it taught me this is what the screenplay format is like. This is how I can get people to really engage emotionally in the things I've written. 
+There's this project that will never happen which I wrote out of a place of just incredible anger and frustration. And I think from that I mostly take the lesson of thank you for teaching me not to do that, because that was a real mistake. That was a lot of wasted time. And a lot of sort of living in a very negative space for no good reason whatsoever. 
+So, you know, take the cuts, take the walking aways as little victories and not as failures.</p>
+
+Craig: There are really no failures. I look at it that way. Because in a strange way, there are so many failures. There aren't any failures. We're soaking in them. So, at that point it's hard for me to look at anything as a failure. And, yeah, there are times when the lesson is clear. There are times when, I mean, I've done a couple things where I thought afterwards, 'I don't know why I did that. Nothing is going to happen with it. I'm not sure I learned anything. That's a total wash. OK.' 
+But, you know, it is part of my life. What can I do? I chalk it up to that inherent inefficiency. You just have to make peace with it. You are going to make mistakes, all of you, and it's essential. It's just essential to who we are.</p>
+
+John: Circling back to your sense of like having some people put eyes on the things you write before you go between this draft and the next draft, one of the phrases that I've learned that's really helpful is saying pretend you have magic scissors and you can cut anything. What would you cut? 
+And the phrase magic scissors is useful because it gives people permission to really tell you what they think they would want to drop out of a script without having to worry about the repercussions of it. Or how hard it would be to lose something. Because it's your job as a writer to figure out how you would actually do that. But you want to solicit the opinions of like really, seriously, what would you cut. And I do that in drafts, but I also do that in first cuts of movies. Just like tell me what you'd like to get out of that script and I'll find a way to do it if I agree with you.</p>
+
+Craig: It's really smart. Because a lot of times we are afraid to say, well, I just don't like this storyline, but I understand why it's there. I know what it's doing. But if 20 people say, 'They don't like it, but,' then you should get rid of it and fix the but, right? So that's very smart.</p>
+
+John: Cool. The last point is like the finding a place for things so you don't have clutter. And this is what I would say when I've come in to do a rewrite, like a big studio rewrite, my first pass through it is mostly just decluttering. There's always all this stuff that is sitting in the script from previous drafts that really has no business being in the script. So, that first week when I'm handing back a draft they're like, 'Oh my god, this is so much better.' It's like all I did was take out the stuff that was getting in the way of the script that you kind of all had there. You just didn't see it. 
+I'm getting rid of those decisions that were made that sort of like were these small little additions that were added because someone had this note or that note that no longer needed to be in the script. And so when you find stuff that's out of place, well sometimes you can just get rid of that stuff. And sometimes you have to find a new place to put things. And that's, I think the hardest lesson sometimes to learn is that you might have a great idea, but unless you have a place to put that great idea, and a place in a movie means a character who can voice it or demonstrate it, and a place both geographically and over the course of the timeline of the movie where that idea can take place, you're just not going to be able to ever make it into your movie.</p>
+
+Craig: Absolutely true. And like you do, I spend a lot of my time rewriting stuff that's in trouble. And I am very aware in those initial meetings where I say, 'Look, here are some things that I think we should just get rid of, blah, blah, blah.' And everyone just lights up and says, 'Oh, thank god you're here.' And I think, hmm, thank god anywhere is here, really. Somebody else would have said this. It's not me, it's new, right? So new eyes have come in and unlike you, who have lived with the construction of this house and can't even remember why the chimney is top of the garage like that, someone is coming along saying, 'Lose the garage. Then you don't have the chimney problem. You don't need a garage. And do this&acirc;&#128;&brvbar;and why is that wall there?' 
+Oh, you know, I can't even remember why. Well, sometimes because they asked for it to be there. You know, that's the other thing. When new people come in, they don't have the knowledge of who asked for what. So there is no embarrassment, whereas if I'm the first writer on it, well I know that that weird wall is there because the vice president of such-and-such demanded it. I can't say get rid of it now, because they all know that that guy demanded it, and he knows, and I know, and it's embarrassing. 
+But the new guy doesn't know that that guy asked for it. So he's got cover. Save face. Yeah, sure, yeah, let's get rid of it. The other writer must have thought of that. It happens all the time. And similarly I know if I am the first writer on something and someone else comes in after me, they may very well be feted as a genius for a while, in part for the same reason. It's not a reflection on me anymore than my arrival is a reflection on the writer before.</p>
+
+John: Yep. And so I would say as you're looking at your own work, as you're going between like your first draft and your second draft, people will come to you with a bunch of ideas. And you'll have a bunch of idea. There will be things that you'll want to incorporate. But I would just caution you like don't bring home homeless ideas. Don't try to sort of wedge extra things into your script unless you really have a natural place for them. And so often I think the reason why second drafts are worse than first drafts is because people are trying to incorporate a bunch of things that they've discovered and the things they really want to have in their script, but there's no place for them because they haven't actually cleared out all the stuff that's already there. 
+And so you're going to have to be very mindful about where those new ideas are going to land. Who is going to be able to voice them? How are you going to have these situations that reflect those ideas? Where it will it fit structurally? Because sometimes you'll see these scenes that could have just fallen at any place over the course of the movie, and those are never good scenes. Unless there's a reason why that scene had to happen at that moment, that scene probably should not be in your movie.</p>
+
+Craig: It's also the big problem that we experience when we arrive at that second draft and are attempting to address input. Because a lot of input is not place-able. At least it's not place-able in the story we're trying to tell. So you end up shoehorning things, or sticking things on top of things. It's not going to work. No one is going to like it. It's hard because sometimes the thing you can say that would lead to the best movie is also the thing that will lead to you being fired. It's rough to say to somebody, 'Everything you just said will not work and it will make the movie worse. A few of these things will make it better.' 
+But, you know, unfortunately people want things. You know, it's that problem, like we said, 'Oh, we want more.' Well, there's no place for more. So, an enormous part of what we do is negotiating with people who are legitimately trying to help, but are not actually helping.</p>
+
+John: Yeah. It's like those people who come to your house saying like, 'Oh, I got this thing that's going to fit in perfectly in your house. It's great.' And you look at and say, yes, it's beautiful. I think it's just really wonderful. But it doesn't fit your house at all. There's no place for you to put it. And so it's going to sit on the counter for a while and you're going to feel bad about it sitting on the counter for a while. And you can't remember sort of like, wait, who brought it to us? And like three years later it's still sitting on the counter and you have no idea how it got into your house.</p>
+
+Craig: Yeah. Being a screenwriter is a bit like being a homeowner, except that the bank that owns your mortgage is allowed - and in fact required - to come in and tell you how to decorate and how to change things.</p>
+
+John: Yes.</p>
+
+Craig: So go ahead and decorate it as you like, but then we're going to send a bank official over who is going to say, 'No, change that wall color to this. I don't like that bedroom there. Let's get rid of it. And your house is arranged now.' What? 'Oh, and you're living here. And we own it, so do it. Or we'll move you out and move your friend in.' [laughs] Blech.</p>
+
+John: Blech. So, let's try to end this on a more positive note. I would say that the movies I love most are not cluttered. And that's the thing I would sort of stress about this lesson we're trying to impart to you is not like all the bad things that happen when people try to shove too much stuff at you, but the really great movies when you step back and you really look at them, they are remarkably clean. 
+They are not overburdened by things that are not important. And sometimes that came out very naturally in the writing process. Sometimes that came through arduous filmmaking and editing and reshoots. But the end result of those movies that I love are really just delightfully clean and there's no more there than needs to be, there's no less. They feel just right put together. 
+And so as you're writing your scripts, aim for that in your drafts. You won't always hit it, but really try to find that clean and decluttered way of telling your story and not feel obligated to take in everything that somebody is going to want to hand you.</p>
+
+Craig: Yeah, you know, I can point to each movie I've made and say, 'Here's some clutter that I was imposed.' And it's hard. And then it's really hard because you try and - the worst part is when you're like, OK, I have to use my skills, whatever they are, to make this seem OK. But now the new bar is OK. It's not good. Just, OK, yes, I see how that logically follows. I don't like it. I don't need it. It's distracting. But, yes, it's not bizarre. That's the new standard. 
+Not good.</p>
+
+John: OK. Let's move onto our next topic. A bunch of people tweeted this at us this week. This is a second round in a French case involving Luc Beson. So, last week an appeals court in Paris found in favor of John Carpenter who argued that Luc Beson had committed copyright infringement in the 2012 movie Lockout, borrowing key elements from Carpenter's 1981 cult classic, Escape from New York. 
+And this is notable because this basically never happens, Craig, right?</p>
+
+Craig: It basically never happens. That is correct.</p>
+
+John: So, in previous episodes we've talked about like Tess Gerritsen's Gravity lawsuit, where she was arguing that Gravity borrowed from her book. We've talked about other people claiming like, oh, they stole my script. But in most cases we've just shot that down because it's common for those kind of lawsuits to be filed. It's very uncommon for them to win. But this was such a weird case because this is about two movies that actually exist that you can see both of them on your TV. 
+And basically Carpenter is saying, hey, that movie you made is basically a copy of my movie that I made 30 years ago. You have committed copyright infringement.</p>
+
+Craig: Yeah, well, OK, so a couple of things that stand apart from the usual whack job alleges theft: neither of these people are whack jobs. They're both incredibly successful filmmakers. So, that's an interesting thing that sets this apart. I don't even think I know of any other case like it. 
+The second thing that sets it apart is that this is not a United States decision. This is a French decision. Personally, I think it's a horrendous decision. But, copyright law is different in France. And I guess that may have been the difference. But, I am not thrilled with this decision.</p>
+
+John: Well, let's talk about what the decision is, because it's a little bit strange. So, Luc Beson, who is one of the cowriters of Lockout, but he didn't direct it, he produced it through his Europa Corp production company. And the lawsuit was initially filed in 2014. So Carpenter won that first round in the lawsuit and he won about $100,000. The appeals court decision raised that to about $500,000. 
+So, that's money, but that's not a lot of money. It felt like pretty low numbers for what you'd think of as a big copyright case.</p>
+
+Craig: Yeah. And again, this may be part of the fact that it's French. I don't know. Although, I agree with you. It seems like a very small amount of money, frankly, considering what's being alleged and what's being ruled here. And I don't know if there is yet another round to go in the French judicial system or not. The implication from the media was that the company Europa Corp, which is Luc Beson's company, will just go ahead and pay this amount.</p>
+
+John: And why wouldn't you? $500,000 is not a lot of money.</p>
+
+Craig: Well, why wouldn't you have just gone ahead and taken the gimme at $100. I think it's the same reason. Pride. And principle. I haven't seen Lockout, but I've seen Escape from New York. It sounds to me like Luc Beson, yeah, wrote a movie that is similar in general story to Escape from New York, but just set it in space, I guess. 
+And as far as I know, that's perfectly fine. I mean, I can make a list of 20 movies in the United States that do similar things, but this one is in space. And everybody kind of understands you're doing a version of that movie but, you know, in space.</p>
+
+John: It's one of those weird things where it falls somewhere between a rip-off and a homage and a remake. And I think Carpenter is arguing it's essentially a remake but they put it in space. And Luc Beson would argue like, no, no, it's the same kind of story but told in space. And telling it in space fundamentally changes everything. 
+The same way we have a whole bunch of haunted house movies, but we also have essentially the same story, but like on a spaceship. And that feels enough different that we're not worrying about that.</p>
+
+Craig: Yeah. I mean, everybody who sees a movie can say, 'Basically they're just doing a movie like this.' I mean, every time there's some big movie that comes out of nowhere, there's 20 other movies behind it that do the same damn thing. We all - we've seen that happen. You know, in the United States, copyright infringement comes down to unique expression in fixed form. It's basically like plagiarism, right, like what Melania Drumpf did, or her speech writer. 
+You have to lift stuff. Clear stuff. Right? And that doesn't seem to be at all what happened here. For instance, the similarities that are cited: The hero manages undetected to get inside the place where the hostage is being held. After a fight in a glider/space shuttle, finds there a former associate who dies. He pulls off the mission in extremis, and at the end of the film keeps the secret documents recovered in the course of the mission. 
+Um, I'm going to argue that more than two movies have done that.</p>
+
+John: Yeah. So, the other similarities are your hero is sentenced to a long period of isolation, and incarceration, despite his heroic past. And he has to free the President's daughter who has been held hostage there in exchange for his freedom. So, like it's the President's daughter hero combination thing, which I think tipped the people off the first time. Like, oh wait, this is a lot like Escape from New York. 
+But being a lot like Escape from New York is not copyright infringement. Copyright infringement is actually copying Escape from New York. And so I agree with you that I think it would be a harder case to win in the US. And my suspicion is that it takes place - the lawsuit took place in France just because that's where Luc Beson is and that was the right venue for it.</p>
+
+Craig: Yeah. I mean, nobody in the United States is going to say, 'You know, Akira Kurosawa should sue Pixar because Bugs is Seven Samurai.' Because that's insane. How about that? That's just flat out nuts. And he didn't. And, you know, I look at this - I mean, if you go through John Carpenter movies, I guarantee you you're going to find some elements he's lifted from other movies.</p>
+
+John: Yeah. So it's a question of elements v. total structure. So, you know, Secret Life of Pets, which I thought was pretty charming, but it's almost exactly Toy Story. So my daughter left the theater and she's like, 'Well, it's basically Toy Story but with animals.' And I'm like, yeah, it's basically Toy Story with animals. Most of the beats really do match up to Toy Story, but with animals. And it was a good enough version of it that in no way could I ever imagine Pixar suing over it. It's just the same kind of framework of how you tell the story of these characters and their situation.</p>
+
+Craig: Yeah. The price you pay for hueing too closely to another basic narrative is the audience rejecting it. I don't - this is such a weird decision to me. I mean, look, if there were specific lines and stuff lifted, but the notion, like you have to rescue the president and get him out of a thing and his daughter. Well, it's so generic. I mean, I've seen so many movies where somebody had to go rescue the president.</p>
+
+John: Yep.</p>
+
+Craig: I don't know.</p>
+
+John: So, let's go to a listener question which is actually very related. So, this is Joe who wrote in and he was nice enough to send his audio. So, let's listen to Joe's question. 
+Joe: Hi John. Hi Craig. What's the rule on IP that is specific not only to a certain genre, but also a certain story? For example, zombies tend to all look and feel similar to those put on screen by George Romero and we don't see him suing anyone. Likewise, the Puppet Masters and Invasion of the Body Snatchers both contain similar plots about emotionless humans who are actually aliens, or being controlled by aliens. Yet, both exist without being seen as having stolen the idea from each other. 
+I have a show idea that borrows certain specific elements from other stories in the genre. How do I make sure it reads as homage rather than infringement? Thanks?</p>
+
+John: So, Craig, he's facing a similar situation. He wants to do something that someone watching the movie might say like, oh, that's like that, or that's from that. How do you do that without crossing a line?</p>
+
+Craig: Well, pending this legal ruling, maybe avoid making it in France. But, the truth is you can't avoid a certain amount of overlap, because you're going to overlap with movies you haven't even seen. It's inevitable. There's going to be some scene or moment that does that. Or there's going to be some basic idea that does that. We have thousands and thousands of movies. All of which are layering on top of each other and are remakes and reimaginations and recontextualizations. 
+Infringement is a very clear thing, at least in the United States. Lifting chunks of dialogue. Recreating clear scenes. Picking a character out of a movie and doing a very similar thing. Let's say, for instance, you're making a serial killer movie and you have a FBI agent going to interview a serial killer because he's going to help her catch another killer. Than in and of itself is clearly a - well, it's a reference to Silence of the Lambs. But what I've just said to me doesn't feel like infringement. 
+What's infringement is if she's walking down a dark hallway and finds him in a room that's not metal bars, but a glass box, and he turns around and he's in his nice little neat suit. And he has a quid-pro-quo discussion with her. Now it's like what are you doing? You're clearly just copying another movie. 
+So, the test is are you copying a movie, or are you copying a general kind of story or arrangement?</p>
+
+John: Absolutely. I would point Joe over to Everything is a Remix, which is a great series by Kirby Ferguson where Kirby sort of argues that everything you've ever seen in movies, and really most of popular culture, comes from different places. And you may not be aware of the references, but they all sort of stack up on each other to get us to where we are right now. 
+And so, you know, Star Wars is derived from a bunch of preexisting things. And it was assembled in a way that was delightful and wonderful. And it is original in the sense this is the first expression of Star Wars, but everything that is in Star Wars are ideas that were already out there, and they were just assembled in a great way. 
+So, I would say, Joe, you have to be mindful of don't let your references just be references and don't copy. Just make sure you're using the stuff of the genre that is appropriate and building something new out of those Lego blocks.</p>
+
+Craig: I wonder - this is absolute idle conjecture. But I find it odd that in France an American suing a Frenchman was ruled in favor of. And I wonder in part if this is something to do with Luc Beson and some kind of French thing with Luc Beson. 
+You know, there is this thing that happens - I was talking with somebody. She's an English producer. A UK producer. And she said it's a little bit of the tall poppy syndrome. That if you get too successful as a UK production entity with movies that play well in the United States and around the world, then now you're suddenly no good. 
+I wonder if that has something to do with this.</p>
+
+John: It might.</p>
+
+Craig: Well, conjecture.</p>
+
+John: Do you want to read a question from a different Joe?</p>
+
+Craig: Yeah. So it's good that we have multiple Joes. A different Joe writes, 'A long time ago, you had a guest on Scriptnotes, I forget who, that had written a crazy ass unproduceable screenplay who knew it was insane to ever get made. So he and his partner just put it online. If you know who I'm talking about, can you tell me the screenwriter's name and the name of that script?'</p>
+
+John: We know the name of the writer and the script.</p>
+
+Craig: We do.</p>
+
+John: So that is written by the Robotard 8000. It is actually Malcom Spellman and Tim Talbott. The script is called Ball's Out. And it is just a wild comedy. I've never actually read Ball's Out. I just know it sort of as a legend. And they put it up online so people can read it.</p>
+
+Craig: Yeah. You can actually hear it. So I was part of a group of people that did a recorded reading of Ball's Out for the Black List. So they will occasionally - because it was on the Black List. The selected one. And they will do these podcasts where they have a cast of people come in and do an actual reading of a movie. And so you can hear it. It's bananas. Absolutely nuts. 
+But interestingly following the publication of that screenplay, Tim Talbott went on to win the Waldo Salt Screenwriting Award at Sundance for his movie The Stanford Prison Experiment. And Malcom Spellman is currently one of the big writers on Empire.</p>
+
+John: And also one of the most polarizing guests on Scriptnotes at times.</p>
+
+Craig: And would we have it any other way?</p>
+
+John: No other way. Brian from Syracuse writes, 'Generally speaking, how much of the work do you think needs to be altered in order to feel comfortable calling something a new draft? Is it 10%? A new scene? Rewriting one scene? Furthermore, how much does the amount of work on a new draft differ from that of a polish?' So asking what is a rewrite, what is a polish, and how much is enough to call it a new draft?</p>
+
+Craig: There's no math. I mean, as far as I'm concerned, it falls into the category of we know it when we see it. Every now and then you will have to get into a bit of a negotiation with a studio. Generally speaking, they want to tend to call things polishes. And you want to tend to call things rewrites because you get paid more for a rewrite. 
+Polishes to me really are more of a function of time as opposed to percentage of change. I'm going to do two or three weeks of work, that feels like a polish. I'm going to do more than a month - it's a rewrite. Kind of that zone. And then you get into that ticky-tacky area where it's like, well, it would be like between three and four weeks. Is it a polish? Is it a rewrite? Eh, let's figure it out.</p>
+
+John: And so what we're describing is when you're being paid by someone to do specific work. If you're just doing your own stuff, don't really worry the distinction between a polish and a rewrite, or if you're changing one character's name throughout the whole script, well, that's fine. If you want to call that a draft, whatever. 
+I would just caution people don't put the number of the draft on the script. Let your scripts be dated and use a current date for what the scripts are. But don't say like Third Revised Draft. Not helpful to anyone. Just date them.</p>
+
+Craig: Agreed. Taylor writes, 'Recently there's been a big push from the audience for studios and writers to make characters gay. Example, a few months ago the hashtags #GiveElsaAGirlfriend and #GiveCaptainAmericaABoyfriend ran rampant through social media. And in the new Star Trek movie, Sulu is revealed to be gay. 
+'My question is why aren't people pushing for gay and lesbian writers to take up the reins and write new content that the community can appreciate. Why does the community seem hell-bent on cannibalizing already established characters? Wouldn't it be more meaningful for a character to be gay from inception than to be retroactively changed to appeal to the gay community? I hold myself to the ideal that if I want something done a certain way, I should go and make it. You want to make a character a certain way, then go write one. Don't demand that someone else do it for you.' 
+What do you think about Taylor?</p>
+
+John: I was with Taylor up until hell-bent on the cannibalizing established characters. That's where it sort of tipped over to the, ah, you've got an agenda here. 
+So, I think it's fantastic to have representations of all sorts of people in movies, because that's where we see our popular culture in movies and TV, where we see popular culture expressed. And so I think Taylor's frustration is that there are characters he perceives as being white straight people and if those characters are not portrayed as being white straight people, that gets him a little bit frustrated. 
+And he can go off and be frustrated. I just think that sometimes it's worthwhile to look at sort of is what makes the character fascinating aspects of his or her personality, or is it this default assumption that it is a straight white male?</p>
+
+Craig: Yeah. I think that there are - I basically had the same break point as you. Because I do think that the #GiveElsaAGirlfriend and #GiveCaptainAmericaABoyfriend hashtags are pointless. Because what is it that you're asking exactly? 
+And we've discussed this before, that movies should now conform their character's essential makeup to whoever is yammering the loudest on Twitter? It's insane. It's just insane. You may want a character to be gay. You may want a character to be white. You may want a character to be a woman. But if the creators don't want that, and they've been pushing them forward in a different way, that's life. 
+I mean, tough. You know, the whole 'we demand that Elsa have a girlfriend' is stupid and childish. On the other hand, sexuality is an enormous part of what makes a character interesting. And the last thing I want to see is yet another generation of the same character in the same damn way. I'm just so bored to death. 
+Remember when Daniel Craig was announced as James Bond, people flipped out because he was blond.</p>
+
+John: How can you possibly have a blond Bond?</p>
+
+Craig: Blond. It's like forget not white. We can't even handle him having blond hair. You know, I'm a huge Bond fan. I'm a huge - to me what makes Bond interesting is, you know, the way that this incredibly sexist caricature of a man is forced to evolve over time. And also the areas in which this character refuses to evolve. 
+But I'm delighted by certain changes. I want changes. I find it interesting. I liked it when M became a woman. And now I'm happy that M is a man, because look, that changed again. I like that. 
+Sulu, now, it's an interesting thing with Sulu because George Takei apparently wasn't too thrilled about this. I don't know if you read about that.</p>
+
+John: I did. And he sort of came out saying like, oh, you should add a new character rather than gaying a current character. And I disagree with Sulu and I agree more with J.J. and with Simon Pegg who said that if you just try to tack on an extra character, then that character is only defined as being gay. And so what was so useful about the Sulu character is, you know, we're in a parallel universe. There's no set logic about who that character has to be in this universe whatsoever. I thought it was a fine choice to make him gay. 
+And by the way, I saw the movie. It's the least gay character. I mean, he has sort of a side hug. I guarantee you that all the fan fiction that listeners are writing right now for me and Craig is much gayer than Sulu is in Star Trek.</p>
+
+Craig: [laughs] Well, I haven't seen the movie yet. I'm sure that it is the most incredibly not-gay gay. The only thing that I thought George had a really good point on was look, you're making Sulu - you could have picked any of these people to be gay. You're making him gay because I'm gay, because I played him. And that's a reasonable criticism because, you know, they could have made Bones gay.</p>
+
+John: They could have made Scotty gay. They could have made any of them gay.</p>
+
+Craig: Right. It was a little like, you know right, just like the guy that played him, right? You know, like OK, you know. 
+There are some things I think that do resist some kind of change. For instance, if you have a character named - what's his first name, like Hikaru or something like that? I'm not a huge Trek guy. Like Hikaru Sulu, that's a Japanese name. He should be played by an Asian person. And an Asian person that reasonably looks Japanese. 
+Some things you probably can't change.</p>
+
+John: I'm generally not a fan of hashtags and sort of like fan campaigns to do things that are trying pressure creators to do things. I think they're kind of ridiculous. 
+What I thought was fun about like #GiveElsaAGirlfriend or #GiveCaptainAmericaABoyfriend is they were just trying to provoke a discussion about like would the world really come crashing to an end if you let Cap and Bucky make out the way they sort of seemed to want to make out the whole time through? Or really the assumption that Elsa as a princess in a Disney has to be straight, when like a lot of her does kind of read gay anyway. So, what would the worst thing be if you actually had a lesbian princess in one of these movies? 
+So, I think they're useful in the sense of just like provoking the discussion. I don't think you necessarily need to honor that discussion as a creator, but I thought they were interesting idea bombs to throw out there.</p>
+
+Craig: Yeah. I'm totally down. Like there are hashtags #CaptainAmericaAndBuckyAreLovers. OK. Good. Make your argument. That makes sense to me. I buy it. 
+But it's the demand that you will do this or we're not going to buy tickets anymore that I find petulant and frankly counterproductive.</p>
+
+John: Oh, for sure. But I don't really think either of those campaigns were about we're going to boycott this movie if they don't do this. I think they were more sort of just like trying to provoke the discussion.</p>
+
+Craig: Either way, if somebody takes a character that has existed in many versions, played by many different people, and changes their sexuality to add some new twist on something that has become beyond boring, that's not cannibalizing anything. Cannibalizing implies you've eaten it and killed it. No.</p>
+
+John: Not possible.</p>
+
+Craig: That's not the case. So, we reject this, Taylor.</p>
+
+John: We reject this. [laughs] All right. It's time for our One Cool Things. My One Cool Thing is Difficult People on Hulu, which I may have actually recommended once before, but I want to recommend the second season of it. So it's created and written by Julie Klausner, who also stars in it along with Billy Eichner. They play under-employed writer-comics in New York City. It's just delightful. It's on Hulu. You can stream all the episodes. 
+It's very much in the Seinfeld/Larry Sanders model of like really intricately plotted things that have a bunch of jokes that stack up together and then sort of fall down like dominoes at the end. But I really appreciated the second season is that they have a bunch of supporting characters who are both like punchline machines, like everything they say is funny and just meant to be funny, and yet they're so oddly wonderfully specific. And so one of the new characters in the second season is played by Shakina Nayfack. Her character's name is Lola. And she's a transgender 9/11 truther. And so almost every line she says is both about her being Trans and being how 9/11 was an inside job.</p>
+
+Craig: So great.</p>
+
+John: And you would not think you could possibly make those things match up, and Julie Klausner does. So, I strongly recommend you take a look at that one. Again, it's on Hulu. It's not serialized at all, which is also great. So you can just drop in and watch any one episode. If you're going to pick one episode, I'd recommend Italian Pi&Atilde;&plusmn;ata from the second season. It's a great episode.</p>
+
+Craig: I'm going to give it a watch. It sounds good. I just love the name Shakina Nayfack.</p>
+
+John: Isn't that a great name?</p>
+
+Craig: It sounds like you're trying to get away with something in Pig Latin.</p>
+
+John: It really does. [laughs]</p>
+
+Craig: My One Cool Thing this week is a game for iOS called Severed. It is - now hold on to your seats - it's seven bucks. So don't freak out or nothing. But it's a terrific little game, in part because they managed to get me to play a move around game on iOS. I hate the way most touch applications work for controls. The kinds of moves that you would make with a console handheld controller are very hard to do with touch. Sometimes they give you like a virtual controller, which I loathe. This one they actually just simplified it down to a way where just, oh yeah, OK, I'm going to tap in a direction I want to go. Two fingers to move my head around and then tap again in the direction I want to go. 
+And it's beautiful. It kind of reminds me of old school flash art. Old school meaning like when you and I were still in our 30s. And the mechanics are very simple and it's very much like Fruit Ninja meets walk around and look around and Creepy Beauty. And it's casual as hell. So, if you're looking for something, iPad only, not phone, Severed. I believe the company is called Juice Box. Very good game.</p>
+
+John: Very good. So that is our show this week. There will be links in the show notes for most everything we talked about, so if you're listening to this on your favorite podcast player, just keep scrolling and you'll find links to all those things. 
+If you're visiting us on johnaugust.com, it would be great if you would also subscribe to the show in iTunes because that's actually how we know how many people are listening to our show. And leave us a review while you're there, because that's super helpful as well. 
+If you have a question for me or for Craig, you can write to ask@johnaugust.com. On Twitter I'm @johnaugust. Craig is @clmazin. 
+Our show is produced by Godwin Jabangwe.</p>
+
+Craig: Yeah.</p>
+
+John: It is edited by Matthew Chilelli.</p>
+
+Craig: Woo.</p>
+
+John: Our outro this week comes from John Venable, so thank you John for sending that in. Our outro last week was by Matt Davis. So you didn't know who did it, but Matt Davis did that.</p>
+
+Craig: There you go.</p>
+
+John: If you have an outro for us, you can write into the same email address, ask@johnaugust.com, and send us a link to your outros. We love those outros. But we're running a little bit low. So, if you have some great themes for us, please send those through. And thank you very much, Craig.</p>
+
+Craig: See you next week, John.</p>
+
+John: Bye. 
+You can download the episode <a href="http://traffic.libsyn.com/scriptnotes/Episode_262.mp3" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://traffic.libsyn.com/scriptnotes/Episode_262.mp3', 'here']);">here</a>.</p>
+	</section>
