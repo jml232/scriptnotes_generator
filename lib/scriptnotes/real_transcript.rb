@@ -12,7 +12,9 @@ class RealTranscript
     else
       puts "Pulling transcript, name: #{@episode}.txt"
       grab_html
-      return strip_html
+      strip_html
+      format
+      return
     end
   end
 
@@ -41,6 +43,12 @@ class RealTranscript
     
     #strip away irrelevant content at the bottom of article
     @text.gsub!(/<p>Links:.?<\/p>.*/m,"")
+  end
+
+  def format
+    @text.gsub!(/<\/p>\s*<p>(\w)/m) {"\n#{$1}"}
+    @text.gsub!(/<p><strong>/,"")
+    @text.gsub!(/<\/strong>/,"")
   end
 
   def save  

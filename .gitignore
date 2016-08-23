@@ -1,2 +1,3 @@
 ./data/real_transcripts/*
 ./data/generated_transcripts/*
+./data/word_instance/*
