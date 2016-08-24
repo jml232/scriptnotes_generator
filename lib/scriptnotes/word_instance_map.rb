@@ -21,7 +21,6 @@ class WordInstanceMap
         add_line(l.text)
       end
     end
-    puts "maps of is: #{@maps["is"].inspect}"
   end
 
   def add_line( l )

@@ -21,6 +21,7 @@ class WordInstanceMap
         add_line(l.text)
       end
     end
+    puts "maps of is: #{@maps["is"].inspect}"
   end
 
   def add_line( l )
@@ -33,9 +34,7 @@ class WordInstanceMap
   end
   
   def add(w,t)
-    if @maps.key?(w)
-      puts "\nkey found #{w}, @maps[w].total is: #{@maps[w].total}\n"
-    else
+    unless @maps.key?(w)
       @maps[w] = WordMap.new(w)
     end
     @maps[w].add(t)

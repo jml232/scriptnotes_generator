@@ -15,7 +15,6 @@ class WordMap
     @total += 1
     @map[ t ] += 1
   end
-
   
   def print
     str = "[#{@word}\|#{@total}]"
